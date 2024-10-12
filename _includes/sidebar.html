@@ -1,10 +1,7 @@
 <div class="sidebar">
     <div class="container sidebar">
         <div class="sidebar-about">
-            <h1>
-                <a href="{{ site.baseurl }}"> {{ site.title }} </a>
-            </h1>
-            <p class="lead">{{ site.description }}</p>
+            <h1>{{ site.title }}</h1>
         </div>
 
         <nav class="sidebar-nav">
@@ -25,15 +22,6 @@
                 >{{ node.title }}</a
             >
             {% endif %} {% endif %} {% endfor %}
-
-            <a
-                class="sidebar-nav-item"
-                href="{{ site.github.repo }}/archive/v{{ site.version }}.zip"
-                >Download</a
-            >
-            <a class="sidebar-nav-item" href="{{ site.github.repo }}"
-                >GitHub project</a
-            >
         </nav>
     </div>
 </div>

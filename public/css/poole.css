@@ -24,7 +24,6 @@
  * Posts and pages
  * Pagination
  * Reverse layout
- * Themes
  */
 
 /*
@@ -32,6 +31,15 @@
  *
  * Update the foundational and global aspects of the page.
  */
+
+@font-face {
+    font-family: "KawitFree-Italic";
+    font-style: normal;
+    font-weight: normal;
+    src:
+        local("/fonts/Kawit"),
+        url("/fonts/Kawit.woff") format("woff");
+}
 
 * {
     -webkit-box-sizing: border-box;
@@ -57,16 +65,17 @@ html {
 }
 
 body {
-    color: ##c8c8a7;
-    background-color: #c8c8a7;
+    color: #725f95;
+    background-color: #f3eae2;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-    color: #268bd2;
+    color: #38304b;
     text-decoration: none;
+    font-weight: bold;
 }
 a strong {
     color: inherit;
@@ -84,12 +93,12 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Pirata One", serif;
+    font-family: "Kawit", serif;
 
     margin-bottom: 0.5rem;
     font-weight: bold;
     line-height: 1.25;
-    color: #313131;
+    color: #725f95;
     text-rendering: optimizeLegibility;
 }
 h1 {
@@ -117,7 +126,7 @@ p {
 }
 
 strong {
-    color: #303030;
+    color: #725f95;
 }
 
 /* Lists */
@@ -312,15 +321,15 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
     margin-top: 0;
     margin-bottom: 0;
-    color: #505050;
+    color: #c0c09b;
 }
 .masthead-title a {
-    color: #505050;
+    color: #c0c09b;
 }
 .masthead-title small {
     font-size: 75%;
     font-weight: 400;
-    color: #c0c0c0;
+    color: #c0c09b;
     letter-spacing: 0;
 }
 
@@ -340,7 +349,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-    color: #303030;
+    color: #725f95;
 }
 .page-title,
 .post-title {
