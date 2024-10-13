@@ -1,0 +1,15 @@
+---
+layout: page
+title: Mixed Media
+---
+
+<div class="posts">
+    {% for media in site.mixed_media %}
+    <div class="post">
+        <h1 class="post-title">
+            <a href="{{ media.url }}"> {{ media.title }} </a>
+        </h1>
+        <span class="post-date">{{ media.date | date_to_string }}</span>
+    </div>
+    {% endfor %}
+</div>

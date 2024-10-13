@@ -1,0 +1,15 @@
+---
+layout: page
+title: Film
+---
+
+<div class="posts">
+    {% for film in site.film %}
+    <div class="post">
+        <h1 class="post-title">
+            <a href="{{ film.url }}"> {{ film.title }} </a>
+        </h1>
+        <span class="post-date">{{ film.date | date_to_string }}</span>
+    </div>
+    {% endfor %}
+</div>

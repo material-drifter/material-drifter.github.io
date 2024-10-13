@@ -8,13 +8,19 @@ permalink: pretty
 title: Material Drifter
 tagline: "A Jekyll theme"
 description: 'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url: http://hyde.getpoole.com
+url:
 baseurl: /
 
-author:
-  name: "Mark Otto"
-  url: https://twitter.com/mdo
-
-plugins: [jekyll-paginate]
-
-paginate: 5
+collections:
+  zines:
+    output: true
+  prints:
+    output: true
+  quilts:
+    output: true
+  film:
+    output: true
+  mixed_media:
+    output: true
+  blog:
+    output: true
