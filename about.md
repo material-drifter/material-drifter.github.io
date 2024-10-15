@@ -1,6 +1,9 @@
 ---
 title: About
-photo: 
+photos:
+- 
+- 
+- 
 layout: page
 ---
 
