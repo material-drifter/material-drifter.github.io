@@ -3,12 +3,10 @@ title: Film
 layout: page
 ---
 
-<div class="film photos">
+<div class="flex flex-row flex-wrap">
     {% for film in site.film %}
-    <div class="flex flex-row flex-wrap">
-        <a href="{{ film.url | relative_url}}"
-            ><img class="img-med padding-lr-10" src="{{film.photo}}"
-        /></a>
-    </div>
+    <a href="{{ film.url | relative_url}}"
+        ><img class="img-small padding-lr-10" src="{{film.photo}}"
+    /></a>
     {% endfor %}
 </div>

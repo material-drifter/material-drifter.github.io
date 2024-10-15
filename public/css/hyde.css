@@ -170,6 +170,20 @@ a.sidebar-nav-item:focus {
     height: 15rem;
 }
 
+.img-small {
+    height: 10rem;
+}
+
+.font-lg {
+    font-size: 30px;
+}
+.inline {
+    display: inline;
+}
+
+.text-align-center {
+    text-align: center;
+}
 .padding-lr-10 {
     padding: 0px 10px;
 }
