@@ -11,6 +11,7 @@ collections:
   film:
     title: Film
     output: true
+    Field name: layout
   posts:
     title: Posts
     output: true
