@@ -8,7 +8,7 @@ collections:
   film:
     title: Film
     output: true
-  mixed_media:
+  bitsbops:
     title: Mixed Media
     output: true
   posts:
