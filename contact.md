@@ -1,7 +1,8 @@
 ---
 title: Contact
-photo: "/uploads/contact.jpg"
-layout: page
+photos:
+- "/uploads/contact.jpg"
+layout: lead_photos
 ---
 
 ### Instagram:

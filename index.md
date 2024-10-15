@@ -4,7 +4,7 @@ photos:
 - "/uploads/Material_Drifter_1.jpg"
 - "/uploads/Material%20Drifter%202.jpg"
 - "/uploads/Material_Drifter_3.JPG"
-layout: about
+layout: lead_photos
 ---
 
 #### Kat Smith (they/them)
