@@ -3,6 +3,8 @@ title: Contact
 layout: page
 ---
 
+![contact.jpg](/uploads/contact.jpg)
+
 ### Instagram:
 [*@material.drifter*](https://www.instagram.com/material.drifter/)
 ### Youtube:
