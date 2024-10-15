@@ -6,6 +6,7 @@ photos:
 - "/uploads/Material_Drifter_3.JPG"
 layout: about
 ---
+
 #### Kat Smith (they/them)
 is a queer multi-media artist born and raised in Central Kentucky.
 
