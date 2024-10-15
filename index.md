@@ -1,5 +1,6 @@
 ---
-layout: page
 title: Home
+layout: page
 ---
+
 # PICS GO HERE
