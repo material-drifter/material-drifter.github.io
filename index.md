@@ -1,9 +1,9 @@
 ---
 title: About
 photos:
-- 
-- 
-- 
+- "/uploads/Material_Drifter_1.jpg"
+- "/uploads/Material%20Drifter%202.jpg"
+- "/uploads/Material_Drifter_3.JPG"
 layout: about
 ---
 
