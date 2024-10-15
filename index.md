@@ -1,9 +1,9 @@
 ---
 title: About
 photos:
--
--
--
+- 
+- 
+- 
 layout: about
 ---
 
