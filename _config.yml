@@ -24,19 +24,18 @@ collections:
   zines:
     title: Zines
     output: true
+defaults:
+- scope:
+    path: ''
+    type: film
+  values:
+    layout: photo
+    photo: ''
 markdown: kramdown
 permalink: pretty
 tagline: Material Drifter
-description:
-  A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
+description: A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
   theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo"
   target="_blank">@mdo</a>.
-url:
+url: 
 baseurl: "/"
-defaults:
-  - scope:
-      path: ""
-      type: "film"
-    values:
-      layout: "photo"
-      photo: ""
