@@ -147,7 +147,7 @@ a.sidebar-nav-item:focus {
 }
 
 /*
- * Flex Atrributes
+ * Utility Classes
  */
 
 .flex {
@@ -164,4 +164,12 @@ a.sidebar-nav-item:focus {
 
 .flex-wrap {
     flex-wrap: wrap;
+}
+
+.img-med {
+    height: 15rem;
+}
+
+.padding-lr-10 {
+    padding: 0px 10px;
 }

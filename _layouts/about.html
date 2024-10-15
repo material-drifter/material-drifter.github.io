@@ -3,11 +3,10 @@ layout: default
 ---
 
 <div class="page">
-    <h1 class="page-title">{{ page.title }}</h1>
     <section id="about">
         <div class="flex flex-row">
             {% for photo in page.photos %}
-                <img src="{{photo}}">
+                <img class="img-med padding-lr-10" src="{{photo}}">
             {% endfor %}
         </div>
         <div>{{ content }}</div>

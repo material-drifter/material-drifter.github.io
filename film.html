@@ -3,13 +3,12 @@ title: Film
 layout: page
 ---
 
-<div class="posts">
+<div class="film photos">
     {% for film in site.film %}
-    <div class="post">
-        <h1 class="post-title">
-            <a href="{{ film.url }}"> {{ film.title }} </a>
-        </h1>
-        <span class="post-date">{{ film.date | date_to_string }}</span>
+    <div class="flex flex-row flex-wrap">
+        <a href="{{ film.url | relative_url}}"
+            ><img class="img-med padding-lr-10" src="{{film.photo}}"
+        /></a>
     </div>
     {% endfor %}
 </div>

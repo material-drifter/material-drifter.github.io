@@ -1,32 +1,17 @@
 ---
-title: About
+title: Bio
 photos:
 - "/uploads/Material_Drifter_1.jpg"
 - "/uploads/Material%20Drifter%202.jpg"
 - "/uploads/Material_Drifter_3.JPG"
 layout: about
 ---
+#### Kat Smith (they/them)
+is a queer multi-media artist born and raised in Central Kentucky.
 
-# Hi I'm Material Drifter,
+Their creative practice mostly manifests through fibers, printmaking, zines, and film photography, often melding these materials together.
+Their work draws on the natural landscape around them, home, sense of place, ritual, reflection, dreams, gender, communal practice, and liberatory lineages.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
-optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
-obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
-nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
-tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
-quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos
-sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
-recusandae alias error harum maxime adipisci amet laborum. Perspiciatis
-minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit
-quibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur
-fugiat, temporibus enim commodi iusto libero magni deleniti quod quam
-consequuntur! Commodi minima excepturi repudiandae velit hic maxime
-doloremque. Quaerat provident commodi consectetur veniam similique ad
-earum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo
-fugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore
-suscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantium
-modi minima sunt esse temporibus sint culpa, recusandae aliquam numquam
-totam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam
-quasi aliquam eligendi, placeat qui corporis!
+They currently are a member of the artist collective: [*Solarpunk Surf Club*](https://www.solarpunksurf.club)
+
+When they aren’t making visual art you can find them moving on the dancefloor, growing in the garden, making herbal medicines, on the road, at the circus, or spending time in Kentucky's many pockets of DIY community.
