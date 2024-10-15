@@ -1,15 +1,15 @@
 ---
-title: Prints
+title: Film
 layout: page
 ---
 
 <div class="posts">
-    {% for print in site.prints %}
+    {% for film in site.film %}
     <div class="post">
         <h1 class="post-title">
-            <a href="{{ print.url }}"> {{ print.title }} </a>
+            <a href="{{ film.url }}"> {{ film.title }} </a>
         </h1>
-        <span class="post-date">{{ print.date | date_to_string }}</span>
+        <span class="post-date">{{ film.date | date_to_string }}</span>
     </div>
     {% endfor %}
 </div>

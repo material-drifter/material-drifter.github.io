@@ -3,13 +3,13 @@ title: Material Drifter
 timezone: UTC
 collections:
   blog:
-    title: Blog
+    title: Reflections
     output: true
   film:
     title: Film
     output: true
   bitsbops:
-    title: Mixed Media
+    title: Bits + Bops
     output: true
   posts:
     title: Posts
@@ -29,8 +29,9 @@ collections:
 markdown: kramdown
 permalink: pretty
 tagline: A Jekyll theme
-description: A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
+description:
+  A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
   theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo"
   target="_blank">@mdo</a>.
-url: 
+url:
 baseurl: "/"
