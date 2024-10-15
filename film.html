@@ -5,7 +5,7 @@ layout: page
 
 <div class="flex flex-row flex-wrap">
     {% for film in site.film %}
-    <a href="{{ film.url | relative_url}}"
+    <a href="{{ film.url | relative_url }}"
         ><img class="img-small padding-lr-10" src="{{film.photo}}"
     /></a>
     {% endfor %}
