@@ -350,7 +350,7 @@ tbody tr:nth-child(odd) th {
     .page,
     .post {
         margin-bottom: 4em;
-        min-width: 30rem;
+        min-width: 40rem;
     }
     .flex {
         display: flex;
