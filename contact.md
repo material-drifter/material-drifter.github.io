@@ -1,7 +1,8 @@
 ---
 title: Contact
 photos:
-- "/uploads/contact.jpg"
+- "/uploads/sidebar.jpg"
+- "/uploads/Contact%20photo.jpeg"
 layout: lead_photos
 ---
 
