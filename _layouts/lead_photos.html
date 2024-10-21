@@ -4,11 +4,11 @@ layout: default
 
 <div class="page">
     <section id="about">
-        <div class="flex flex-row">
+        <div class="flex flex-row flex-wrap">
             {% for photo in page.photos %}
-                <img class="img-med padding-lr-10" src="{{photo}}">
+            <img class="img-med padding-lr-10" src="{{photo}}" />
             {% endfor %}
         </div>
         <div>{{ content }}</div>
     </section>
-</section>
+</div>

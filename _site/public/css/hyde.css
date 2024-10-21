@@ -127,6 +127,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
+    max-width: 30rem;
     padding-top: 4rem;
     padding-bottom: 4rem;
 }
@@ -134,14 +135,14 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
     .content {
         max-width: 38rem;
-        margin-left: 20rem;
+        margin-left: 18rem;
         margin-right: 2rem;
     }
 }
 
 @media (min-width: 64em) {
     .content {
-        margin-left: 22rem;
+        margin-left: 20rem;
         margin-right: 4rem;
     }
 }
@@ -181,8 +182,8 @@ a.sidebar-nav-item:focus {
     display: inline;
 }
 
-.round {
-    border-radius: 50%;
+.overflow-horizontal {
+    overflow: auto;
 }
 .text-align-center {
     text-align: center;
