@@ -3,6 +3,7 @@ title: Tentacular Regeneration
 date: 2024-08-01 16:06:00 Z
 photo: "/uploads/Contact%20photo.jpeg"
 layout: post
+show_excerpt: true
 ---
 
 I do not need to tell them to breath

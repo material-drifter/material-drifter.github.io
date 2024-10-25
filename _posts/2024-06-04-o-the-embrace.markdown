@@ -2,6 +2,8 @@
 title: O! The Embrace!
 date: 2024-06-04 16:07:00 Z
 layout: post
+show_excerpt: true
+
 ---
 
 Sprinkled in sweet songs
