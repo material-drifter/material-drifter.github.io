@@ -1,6 +1,6 @@
 ---
 title: Tentacular Regeneration
-date: 2024-10-24 16:06:00 Z
+date: 2024-08-01 16:06:00 Z
 photo: "/uploads/Contact%20photo.jpeg"
 layout: post
 ---
