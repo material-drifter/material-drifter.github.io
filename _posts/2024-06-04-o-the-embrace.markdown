@@ -1,6 +1,6 @@
 ---
 title: O! The Embrace!
-date: 2024-09-04 16:07:00 Z
+date: 2024-06-04 16:07:00 Z
 layout: post
 ---
 
