@@ -1,0 +1,7 @@
+---
+title: C Port 12
+date: 2024-10-27 18:35:00 Z
+photo: "/uploads/cp12.png"
+---
+
+***2023, Crab Orchard KY***
