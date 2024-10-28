@@ -5,4 +5,4 @@ position: 10
 photo: "/uploads/cll2.jpeg"
 ---
 
-*2022, Mountain Gardens *
+*2022, Mountain Gardens*
