@@ -12,11 +12,11 @@ collections:
     title: Film
     output: true
     layout: photo
-  posts:
-    title: Posts
-    output: true
   prints:
     title: Prints
+    output: true
+  posts:
+    title: Reflections
     output: true
   uploads:
     title: Uploads
