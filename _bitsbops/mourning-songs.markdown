@@ -8,7 +8,7 @@ photos:
 layout: art_collection
 ---
 
-*2023, Lexington, KY*
+*2023, Lexington, KY* <br> 
 instructions for participation:
 
 eat bread, feel your grief
