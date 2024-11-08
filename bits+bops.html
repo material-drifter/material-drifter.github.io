@@ -9,6 +9,10 @@ layout: page
         <h1 class="post-title">
             <a href="{{ bit.url }}"> {{ bit.title }} </a>
         </h1>
+        {% if bit.preview_photo != nil %}
+        <img class="img-med" src="{{bit.preview_photo}}" />
+        {% endif %}
+        <h3>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</h3>
     </div>
     {% endfor %}
 </div>

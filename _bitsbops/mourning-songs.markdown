@@ -2,10 +2,10 @@
 title: Mourning Songs
 date: 2024-10-28 00:52:00 Z
 preview_photo: "/uploads/IMG_6778.jpeg"
-photo:
+photos:
 - "/uploads/IMG_6787.jpeg"
 - "/uploads/IMG_6778.jpeg"
-layout: lead_photos
+layout: art_collection
 ---
 
 instructions for participation:

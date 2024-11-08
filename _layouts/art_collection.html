@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="page">
+    <section id="about">
+        <img src="{{page.preview_photo}}" />
+
+        <h3>{{ page.title }}</h3>
+        <div>{{ content }}</div>
+        <div class="flex flex-row flex-wrap">
+            {% for photo in page.photos %}
+            <img class="img-med padding-lr-10" src="{{photo}}" />
+            {% endfor %}
+        </div>
+    </section>
+</div>

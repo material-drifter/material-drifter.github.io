@@ -153,6 +153,7 @@ a.sidebar-nav-item:focus {
 
 .flex {
     display: flex;
+    justify-content: center;
 }
 
 .flex-col {
