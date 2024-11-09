@@ -1,5 +1,5 @@
 ---
-title: Skull
+title: Cow Skull
 date: 2024-11-08 22:45:00 Z
 position: 2
 preview_photo: "/uploads/cover-2.jpeg"
