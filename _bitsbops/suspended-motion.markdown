@@ -10,7 +10,7 @@ photos:
 layout: art_collection
 ---
 
-*2020, Lexington, KY* <br>
+*2020, Lexington KY* <br>
 In our current state when motion is restricted, how do we feel movement? When chaos feels close with less space to turn, how do you feel stillness? As our world weighs on suspension, I find these two folding into each other, working their ways as one. 
 <br>
 <br>
