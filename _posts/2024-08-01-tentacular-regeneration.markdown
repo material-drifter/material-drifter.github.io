@@ -9,7 +9,7 @@ layout: post
 I do not need to tell them to breath <br>
 (they know) <br>
 (it is them bringing me back home) <br>
-and still, I lift pipes cast upon them <br>
+and still, we lift pipes cast upon them <br>
 forged in possession, time pumping faster <br>
 I look to clenching hands to ask, <br>
 can you feel <br>
