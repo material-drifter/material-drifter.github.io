@@ -4,12 +4,16 @@ layout: page
 ---
 
 <div class="posts">
-    {% for print in site.prints %}
-    <div class="post">
-        <h1 class="post-title">
-            <a href="{{ print.url }}"> {{ print.title }} </a>
-        </h1>
-        <span class="post-date">{{ print.date | date_to_string }}</span>
+    <div class="flex flex-row flex-wrap space-around">
+        {% for print in site.prints %}
+        <div class="padding-lr-10 flex flex-col flex-start-align-center">
+            <h1 class="post-title">
+                <a href="{{ print.url }}"> {{ print.title }} </a>
+            </h1>
+            {% if print.preview_photo != nil %}
+            <img class="img-med" src="{{print.preview_photo}}" />
+            {% endif %}
+        </div>
+        {% endfor %}
     </div>
-    {% endfor %}
 </div>

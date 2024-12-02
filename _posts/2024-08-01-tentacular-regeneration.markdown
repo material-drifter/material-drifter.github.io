@@ -1,7 +1,7 @@
 ---
 title: Tentacular Regeneration
 date: 2024-08-01 16:06:00 Z
-photo: "/uploads/trillium.jpeg"
+preview_photo: "/uploads/trillium.jpeg"
 show_excerpt: true
 layout: post
 ---

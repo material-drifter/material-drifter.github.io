@@ -1,7 +1,7 @@
 ---
 title: O! The Embrace!
 date: 2024-06-04 16:07:00 Z
-photo: "/uploads/20-c93dee.jpg"
+preview_photo: "/uploads/20-c93dee.jpg"
 show_excerpt: true
 layout: post
 ---

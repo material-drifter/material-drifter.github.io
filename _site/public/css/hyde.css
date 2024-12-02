@@ -151,9 +151,10 @@ a.sidebar-nav-item:focus {
  * Utility Classes
  */
 
+
+
 .flex {
     display: flex;
-    justify-content: center;
 }
 
 .flex-col {
@@ -162,6 +163,18 @@ a.sidebar-nav-item:focus {
 
 .flex-row {
     flex-direction: row;
+}
+
+.space-around {
+    justify-content: space-around;
+}
+.justify-center {
+    justify-content: center;
+}
+
+.flex-start-align-center {
+    justify-content: flex-start;
+    align-items: center; !
 }
 
 .flex-wrap {

@@ -12,3 +12,18 @@ layout: page
     </div>
     {% endfor %}
 </div>
+
+<div class="posts">
+    <div class="flex flex-row flex-wrap space-around">
+        {% for fiber in site.fibers %}
+        <div class="padding-lr-10 flex flex-col flex-start-align-center">
+            <h1 class="post-title">
+                <a href="{{ fiber.url }}"> {{ fiber.title }} </a>
+            </h1>
+            {% if fiber.preview_photo != nil %}
+            <img class="img-med" src="{{fiber.preview_photo}}" />
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+</div>
