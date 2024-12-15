@@ -5,26 +5,26 @@ preview_photo: "/uploads/Screenshot%202024-12-15%20at%201.18.12%20AM.png"
 layout: post
 ---
 
-Hands finger blades of wheat 
-as it sways away and back to. 
-A thumbing that allows for a 
-brief pause of thought. 
-To slowly pace back from the steady stream of 
-clothes to mend 
-grain to mill
-babies to feed. 
-A crying beckons me back. 
-My sauntering gains momentum as 
-thistles grab at my apron, calling 
-just a moments longer to take. 
-
-Back at the house 
-with hens dreaming through midday heat
-I find Mrs. Henson's son yet again 
-hanging around
-untroubled by my lack of interest. 
-as he rambles on, as he usually does
-all I can think of is where his sweet sister Carolyn is
-and why she can't be 
-the one 
+Hands finger blades of wheat <br>
+as it sways away and back to. <br>
+A thumbing that allows for a <br>
+brief pause of thought. <br>
+To slowly pace back from the steady stream of <br>
+clothes to mend <br>
+grain to mill <br>
+babies to feed. <br>
+A crying beckons me back. <br>
+My sauntering gains momentum as <br>
+thistles grab at my apron, calling <br>
+just a moments longer to take. <br>
+<br>
+Back at the house <br>
+with hens dreaming through midday heat <br>
+I find Mrs. Henson's son yet again <br>
+hanging around <br>
+untroubled by my lack of interest. <br>
+as he rambles on, as he usually does <br>
+all I can think of is where his sweet sister Carolyn is <br>
+and why she can't be <br>
+the one <br>
 doing the bidding. 
