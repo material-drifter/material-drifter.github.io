@@ -18,18 +18,18 @@ scarcity breeding scarcity? <br>
 I turn to them again <br>
 the mender <br>
 stitching themselves into decay <br>
-seeding circles. <br>
-
-And I too, stitch my fingers in <br>
+seeding circles <br>
+<br>
+and I too, stitch my fingers in <br>
 lifting out despair, rooted invasion <br>
 Pulling nets from homes choked <br>
 	hurtling towards collapse <br>
 This tending takes its time <br>
-	as you cannot rush the seasons. <br>
+	as you cannot rush the seasons <br>
 <br>
-And with their room to rest <br>
+and with their room to rest <br>
 I can feel it too <br>
 our bodies bound together <br>
 wrapped in the echoes of our future <br>
    endless spools of connection <br>
-our many ways,  woven into maps. <br>
+our many ways,  woven into maps <br>
