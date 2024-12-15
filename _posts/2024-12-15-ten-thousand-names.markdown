@@ -1,7 +1,7 @@
 ---
 title: ten thousand names
 date: 2024-12-15 17:30:00 Z
-preview_photo: "/uploads/kite.jpeg"
+preview_photo: "/uploads/24-3.JPG"
 layout: post
 ---
 
