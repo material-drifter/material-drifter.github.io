@@ -9,7 +9,7 @@ I open the door to <br>
 sun and cold and wind <br>
 to lives held in the homes I pass <br>
 dreaming up my own in each <br>
-to cunching leaves <br>
+to crunching leaves <br>
 and dogs that bark <br>
 the church bell tolling <br>
 through distant trees <br>
