@@ -1,7 +1,7 @@
 ---
 title: looking for
 date: 2024-12-15 17:13:00 Z
-preview_photo: "/uploads/IMG_0138.jpg"
+preview_photo: "/uploads/7-4.jpg"
 layout: post
 ---
 
