@@ -22,9 +22,9 @@ seeding circles <br>
 <br>
 and I too, stitch my fingers in <br>
 lifting out despair, rooted invasion <br>
-Pulling nets from homes choked <br>
+pulling nets from homes choked <br>
 	hurtling towards collapse <br>
-This tending takes its time <br>
+this tending takes its time <br>
 	as you cannot rush the seasons <br>
 <br>
 and with their room to rest <br>
