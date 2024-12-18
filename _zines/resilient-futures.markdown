@@ -7,7 +7,7 @@ layout: art_collection
 
 Resilient Futures: Prepping for Disaster in Computer <br>
 2023 <br>
-[download printable version](https://drive.google.com/file/d/1VQ31q_CtE3CZr8Gc_XxJcUVvuC0fbME-/view?usp=sharing)
-[view digital version](https://drive.google.com/file/d/1R9Se8FFETQSIKWzGJCpBzjhWv9N3IL2X/view?usp=sharing)
+[download printable version] <br>(https://drive.google.com/file/d/1VQ31q_CtE3CZr8Gc_XxJcUVvuC0fbME-/view?usp=sharing)
+[view digital version] <br>(https://drive.google.com/file/d/1R9Se8FFETQSIKWzGJCpBzjhWv9N3IL2X/view?usp=sharing)
 
 
