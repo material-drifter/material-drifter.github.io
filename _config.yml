@@ -25,15 +25,15 @@ collections:
     title: Zines
     output: true
 defaults:
-  - scope:
-      path: ""
-      type: film
-    values:
-      layout: individual_art
-      photo: ""
+- scope:
+    path: ''
+    type: film
+  values:
+    layout: individual_art
+    photo: ''
 markdown: kramdown
 permalink: pretty
 tagline: Material Drifter
-description:
-url:
+description: 
+url: 
 baseurl: "/"
