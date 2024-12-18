@@ -1,5 +1,5 @@
 ---
-title: daff ooo dillz
+title: daff-ooo-dillz
 date: 2024-12-15 03:57:00 Z
 preview_photo: "/uploads/Smith_K_daff%20ooo%20dillz-2912bb.png"
 photos:
@@ -7,8 +7,9 @@ photos:
 - "/uploads/photo-output-aed3b7.jpeg"
 - "/uploads/photo-output-3-336132.jpeg"
 layout: art_collection
+
 ---
 
-2024 
+2024
 
 Lexington, KY
