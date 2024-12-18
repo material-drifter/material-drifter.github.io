@@ -1,7 +1,7 @@
 ---
 title: Suspended Motion
 date: 2024-11-08 22:08:00 Z
-position: 1
+position: 2
 preview_photo: "/uploads/cover.jpeg"
 photos:
 - "/uploads/IMG_6437.jpeg"
