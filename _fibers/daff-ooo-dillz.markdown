@@ -9,5 +9,3 @@ layout: art_collection
 ---
 
 2024 
-
-Lexington, KY
