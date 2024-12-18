@@ -4,16 +4,6 @@ layout: page
 ---
 
 <div class="posts">
-    {% for fiber in site.fibers %}
-    <div class="post">
-        <h1 class="post-title">
-            <a href="{{ fiber.url }}"> {{ fiber.title }} </a>
-        </h1>
-    </div>
-    {% endfor %}
-</div>
-
-<div class="posts">
     <div class="flex flex-row flex-wrap space-around">
         {% for fiber in site.fibers %}
         <div class="padding-lr-10 flex flex-col flex-start-align-center">
