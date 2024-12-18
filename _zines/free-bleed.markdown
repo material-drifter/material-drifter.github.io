@@ -2,7 +2,7 @@
 title: Free Bleed
 date: 2024-12-18 01:41:00 Z
 preview_photo: "/uploads/3-2.PNG"
-layout: individual_art
+layout: art_collection
 ---
 
 Free Bleed: a non-gendered analog period tracker <br>
