@@ -5,4 +5,5 @@ preview_photo: "/uploads/3-2.PNG"
 ---
 
 Free Bleed: a non-gendered analog period tracker <br>
-2023 
+2023 <br>
+[download printable version](https://drive.google.com/file/d/1DTSyjX88XzBn3LRcqq32txvfcivTuD_P/view?usp=sharing)
