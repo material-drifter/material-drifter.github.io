@@ -7,7 +7,6 @@ photos:
 - "/uploads/photo-output-aed3b7.jpeg"
 - "/uploads/photo-output-3-336132.jpeg"
 layout: art_collection
-
 ---
 
 2024
