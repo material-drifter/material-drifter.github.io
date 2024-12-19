@@ -8,4 +8,6 @@ layout: art_collection
 ---
 
 *2020, Lexington KY* <br>
-*Papier mâché*
+*Papier mâché* <br>
+
+Commissioned for a local arts space. 
