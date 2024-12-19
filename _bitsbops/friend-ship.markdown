@@ -7,6 +7,7 @@ photos:
 - "/uploads/IMG_0240.jpg"
 - "/uploads/IMG_0238.jpg"
 - "/uploads/IMG_0239.jpg"
+layout: art_collection
 ---
 
 *2022, Lexington KY* <br>
