@@ -8,4 +8,4 @@ layout: art_collection
 
 *2019, Lexington KY* <br>
 <br>
-Soft Sculpture Beetle behind hand printed beetle pillow + hand embroidered bee pillow. 
+Soft sculpture beetle behind hand printed beetle pillow + hand embroidered bee pillow. 
