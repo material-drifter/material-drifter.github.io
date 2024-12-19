@@ -1,7 +1,7 @@
 ---
 title: Suspended Motion
 date: 2024-11-05 22:08:00 Z
-position: 5
+position: 6
 preview_photo: "/uploads/cover-cfad10.jpeg"
 photos:
 - "/uploads/IMG_6437-2.jpeg"
