@@ -7,4 +7,5 @@ layout: art_collection
 ---
 
 *2020, Lexington KY* <br>
+<br>
 Thoughts on what you hold the light up to, and what floats down the river. 
