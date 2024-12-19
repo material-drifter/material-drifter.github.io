@@ -1,6 +1,7 @@
 ---
 title: Water Drop
 date: 2024-12-04 21:30:00 Z
+position: 3
 preview_photo: "/uploads/WaterDrop_K_Smith.jpeg"
 layout: art_collection
 ---
