@@ -1,6 +1,6 @@
 ---
 title: Mutuality
-date: 2024-12-19 20:07:00 Z
+date: 2024-12-02 20:07:00 Z
 preview_photo: "/uploads/4.jpeg"
 layout: art_collection
 ---
