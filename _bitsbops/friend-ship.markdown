@@ -9,8 +9,8 @@ photos:
 - "/uploads/IMG_0239.jpg"
 ---
 
-2022, Lexington KY <br>
-stop motion animation <br>
+*2022, Lexington KY* <br>
+*stop motion animation* <br>
 <br>
 Enzo and Sam find sweet simple friendship on a sunny day at the beach.
 <br>
