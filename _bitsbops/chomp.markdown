@@ -3,7 +3,7 @@ title: Chomp
 date: 2024-11-05 04:51:00 Z
 position: 4
 preview_photo: "/uploads/2.jpeg"
-layout: individual_art
+layout: art_collection
 ---
 
 *2022, Lexington KY* <br>
