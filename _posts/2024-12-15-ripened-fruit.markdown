@@ -1,7 +1,7 @@
 ---
 title: ripened fruit
 date: 2024-12-15 17:40:00 Z
-preview_photo: "/uploads/10.jpg"
+preview_photo: "/uploads/10-441331.jpg"
 layout: post
 ---
 
