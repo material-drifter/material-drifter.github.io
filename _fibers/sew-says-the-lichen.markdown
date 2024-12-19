@@ -1,6 +1,7 @@
 ---
 title: Sew Says the Lichen
 date: 2024-12-07 21:42:00 Z
+position: 6
 preview_photo: "/uploads/SewSaysTheLichen_K_Smith.jpg"
 layout: art_collection
 ---
