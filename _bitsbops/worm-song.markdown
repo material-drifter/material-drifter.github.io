@@ -16,5 +16,5 @@ layout: art_collection
 The Worn Song: Written and Recorded by Content Clown <br>
 Music Video: Shot and Edited by Material Drifter<br>
 <br>
-We hope this song wiggles its way into our heart!<br>
+We hope this song wiggles its way into your heart!<br>
 [full stop motion video](https://youtu.be/2yhTp9aAYGk) 
