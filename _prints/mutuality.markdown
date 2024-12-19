@@ -6,4 +6,5 @@ layout: art_collection
 ---
 
 *2024, Lexington KY* <br>
+<br>
 Reveling in the mutually beneficial relationship between trilliums, and ants 
