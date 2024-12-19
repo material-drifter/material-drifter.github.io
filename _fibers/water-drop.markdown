@@ -8,4 +8,4 @@ layout: art_collection
 
 *2023, Lexington KY* <br>
 <br>
-This piece nods to the ripple effect that small moments, places, and people can have on us, and the space that creates to find ourselves. This quilt brings in time honored elements of quilting, while expanding, changing, and playing with the tradition. 
+*Water Drop* nods to the ripple effect that small moments, places, and people can have on us, and the space that creates to find ourselves. This quilt brings in time honored elements of quilting, while expanding, changing, and playing with the tradition. 
