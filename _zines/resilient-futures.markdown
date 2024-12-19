@@ -1,6 +1,7 @@
 ---
 title: Resilient Futures
 date: 2024-12-18 01:26:00 Z
+position: 1
 preview_photo: "/uploads/2-2.jpeg"
 layout: art_collection
 ---
