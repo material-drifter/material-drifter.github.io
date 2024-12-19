@@ -8,5 +8,5 @@ layout: art_collection
 
 *2022, Lexington KY* <br>
 <br>
-seem\\seen allowance<br>
+seem//seen allowance<br>
 billows of the body, the area between the edge
