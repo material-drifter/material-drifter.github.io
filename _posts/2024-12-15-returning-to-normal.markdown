@@ -1,7 +1,7 @@
 ---
 title: returning to normal
 date: 2024-12-15 06:03:00 Z
-preview_photo: "/uploads/lakeadventure.jpeg"
+preview_photo: "/uploads/lakeadventure-ef7ece.jpeg"
 layout: post
 ---
 
