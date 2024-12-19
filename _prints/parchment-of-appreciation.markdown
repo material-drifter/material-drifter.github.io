@@ -1,6 +1,6 @@
 ---
 title: Parchment of Appreciation
-date: 2024-12-19 20:04:00 Z
+date: 2024-12-01 20:04:00 Z
 preview_photo: "/uploads/IMG_9602.jpeg"
 layout: art_collection
 ---
