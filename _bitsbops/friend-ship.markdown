@@ -2,7 +2,7 @@
 title: Friend-ship
 date: 2024-11-03 18:14:00 Z
 position: 2
-preview_photo: "/uploads/IMG_0241.jpg"
+preview_photo: "/uploads/IMG_0241-886631.jpg"
 photos:
 - "/uploads/IMG_0240.jpg"
 - "/uploads/IMG_0238.jpg"
