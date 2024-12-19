@@ -1,7 +1,7 @@
 ---
 title: Shoestring
 date: 2024-12-18 01:50:00 Z
-position: 4
+position: 5
 preview_photo: "/uploads/6.jpeg"
 layout: art_collection
 ---
