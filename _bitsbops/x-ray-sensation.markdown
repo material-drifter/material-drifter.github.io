@@ -1,7 +1,7 @@
 ---
 title: X-Ray Sensation
 date: 2024-11-05 04:55:00 Z
-position: 4
+position: 3
 preview_photo: "/uploads/1.jpg"
 layout: individual_art
 ---
