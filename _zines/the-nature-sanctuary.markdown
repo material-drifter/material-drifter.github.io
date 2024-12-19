@@ -2,7 +2,7 @@
 title: The Nature Sanctuary
 date: 2024-12-05 18:58:00 Z
 position: 4
-preview_photo: "/uploads/IMG_5210.jpeg"
+preview_photo: "/uploads/IMG_5210-2.jpeg"
 photos:
 - "/uploads/B6A438D1-3CA1-4BDE-B204-E022042576CD.jpeg"
 - "/uploads/IMG_8514.jpeg"
