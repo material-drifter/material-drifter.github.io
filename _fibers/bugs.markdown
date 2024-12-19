@@ -1,6 +1,6 @@
 ---
 title: Bugs
-date: 2024-12-19 21:00:00 Z
+date: 2024-12-13 21:00:00 Z
 preview_photo: "/uploads/8-2.PNG"
 layout: art_collection
 ---
