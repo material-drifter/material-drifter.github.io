@@ -1,6 +1,6 @@
 ---
 title: Friend-ship
-date: 2024-12-19 18:14:00 Z
+date: 2024-11-03 18:14:00 Z
 position: 2
 preview_photo: "/uploads/IMG_0241.jpg"
 photos:
