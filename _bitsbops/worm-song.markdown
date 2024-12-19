@@ -2,7 +2,7 @@
 title: Worm Song
 date: 2024-11-04 18:18:00 Z
 position: 3
-preview_photo: "/uploads/IMG_0236.jpg"
+preview_photo: "/uploads/IMG_0236-8fe1a8.jpg"
 photos:
 - "/uploads/IMG_0242.jpg"
 - "/uploads/IMG_0243.jpg"
