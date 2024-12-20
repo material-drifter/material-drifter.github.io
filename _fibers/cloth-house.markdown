@@ -3,6 +3,11 @@ title: Cloth House
 date: 2024-12-14 21:04:00 Z
 position: 9
 preview_photo: "/uploads/IMG_1070.JPG"
+photos:
+- "/uploads/IMG_1057.jpeg"
+- "/uploads/IMG_1068.jpeg"
+- "/uploads/IMG_0998.jpeg"
+- "/uploads/IMG_1043.jpeg"
 layout: art_collection
 ---
 
