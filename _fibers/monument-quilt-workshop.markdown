@@ -7,6 +7,7 @@ photos:
 - "/uploads/IMG_0517.jpeg"
 - "/uploads/IMG_0514.jpeg"
 - "/uploads/IMG_0515.jpeg"
+layout: art_collection
 ---
 
 *2018, Lexington KY* <br>
