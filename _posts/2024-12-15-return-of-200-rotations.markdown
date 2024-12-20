@@ -16,7 +16,7 @@ the slow steady dance <br>
 plies in sky <br>
 stretched through six months time <br>
 moments caught in the minutes of days <br>
-in carves time for luminary dreams <br>
+in carved time for luminary dreams <br>
 I too will rest these open eyes <br>
 <br>
 burrowed in the nest of still dark <br>
