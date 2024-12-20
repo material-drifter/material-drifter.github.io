@@ -1,6 +1,6 @@
 ---
 title: Cloth House
-date: 2024-12-14 21:04:00 Z
+date: 2024-12-15 21:04:00 Z
 position: 11
 preview_photo: "/uploads/IMG_1070.JPG"
 photos:
