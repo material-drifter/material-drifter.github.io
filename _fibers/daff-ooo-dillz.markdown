@@ -15,4 +15,4 @@ A time of new growth, a time of coming alive, a time of waking from the dark slu
 Feeling the tangles of grief pulling hard on those raw edges. A look out the window to be greeted by the daffodil, tucked in close to home. <br>
 Finding a lonesome patch in a field, or the woods might mean the ghost of a dwelling once stood there- you could look around for old bricks if you wanted, but they might be buried real deep. <br>
 This season sitting with my own ghosts from times past, pushing through. The old home gone but remnants still rooted. New compassions and old tales swirling together. <br>
-The mind might be there, but the body is catching up. I sit long enough to stitch it in, to try an be soft with a hard thing. 
+The mind might be there, but the body is catching up. I sit long enough to stitch it in, to try and be soft with a hard thing. 
