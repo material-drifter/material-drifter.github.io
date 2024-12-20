@@ -1,6 +1,6 @@
 ---
 title: Many parts of a not-so-lonesome Star
-date: 2024-12-01 21:22:00 Z
+date: 2024-11-30 21:22:00 Z
 position: 0
 preview_photo: "/uploads/Smith_K_notsolonesomestar.jpeg"
 layout: art_collection
