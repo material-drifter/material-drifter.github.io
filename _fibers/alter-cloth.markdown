@@ -8,4 +8,5 @@ layout: art_collection
 
 *2021, Lexington KY* <br>
 <br>
-Series of ten quilted alter clothes for tarot, ritual, or reflection. 
+Quilted alter clothes for tarot, ritual, or reflection. <br>
+Quilt 1 out of a series of 10. 
