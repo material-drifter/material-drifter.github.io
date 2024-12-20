@@ -1,6 +1,6 @@
 ---
 title: Seem//Seen Allowance
-date: 2024-12-05 21:34:00 Z
+date: 2024-12-06 21:34:00 Z
 position: 5
 preview_photo: "/uploads/10.jpeg"
 layout: art_collection
