@@ -8,4 +8,4 @@ layout: art_collection
 
 *2023, Lexington KY* <br>
 <br>
-Thread Line Dwelling is an archival zine about the quilt house I constructed in 2017. It includes photo documentation, as well as some thoughts that stewed into its creation.
+*Thread Line Dwelling* is an archival zine about *Quilt House*, a piece constructed in 2017. It includes photo documentation, as well as some thoughts that stewed into its creation.
