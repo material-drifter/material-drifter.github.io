@@ -20,7 +20,7 @@ with so much stillness, and so much motion <br>
 this moment is everything <br>
 <br>
 and you tell me your name <br>
-and it is Isis <br>
+and it is [Isis](https://egyptianmuseum.org/deities-isis) <br>
 and I know I must remember you <br>
 <br>
 with this <br>
