@@ -1,5 +1,5 @@
 ---
-title: What Home Means to Us
+title: What Home Means
 date: 2024-12-01 17:19:00 Z
 position: 1
 preview_photo: "/uploads/what%20home%20means%20to%20us-5.png"
