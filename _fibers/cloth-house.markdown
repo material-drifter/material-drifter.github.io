@@ -9,4 +9,4 @@ layout: art_collection
 *2017, Lexington, KY*<br>
 <br>
 *Cloth House* explores thoughts on home making, traditionally female labor, and the often unrecognized power of vulnerability.<br>
-This piece includes fabrics hand dyed with herbs, and explores material resistance through the cloth + process of construction. Hidden messages are embroidered throughout. 
+This piece includes fabrics hand dyed with herbs, and explores material resistance through the cloth itself + process of construction. Hidden messages are embroidered throughout. 
