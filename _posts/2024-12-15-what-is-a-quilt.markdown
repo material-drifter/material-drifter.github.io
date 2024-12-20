@@ -1,7 +1,7 @@
 ---
 title: what is a quilt
 date: 2024-12-15 05:06:00 Z
-preview_photo: "/uploads/quilt%20flier%20background%20.jpg"
+preview_photo: "/uploads/Untitled%20design-7-941571.png"
 layout: post
 ---
 
