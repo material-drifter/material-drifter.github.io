@@ -13,7 +13,7 @@ layout: art_collection
 *2022, Lexington KY* <br>
 *stop motion animation* <br>
 <br>
-The Worn Song: written and recorded by Content Clown <br>
+The Worn Song: written and recorded by [Content Clown](https://www.instagram.com/contentclown?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) <br>
 Music Video: shot and edited by Material Drifter<br>
 <br>
 We hope this song wiggles its way into your heart!<br>
