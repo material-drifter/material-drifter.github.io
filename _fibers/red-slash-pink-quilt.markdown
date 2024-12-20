@@ -1,5 +1,5 @@
 ---
-title: red/pink quilt
+title: block quilt
 date: 2024-12-09 15:27:00 Z
 position: 8
 preview_photo: "/uploads/IMG_6054-8b0804.jpeg"
