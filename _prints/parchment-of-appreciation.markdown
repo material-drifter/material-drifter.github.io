@@ -1,6 +1,7 @@
 ---
 title: Appreciation
 date: 2024-12-01 20:04:00 Z
+position: 0
 preview_photo: "/uploads/IMG_9602-3fcc30.jpeg"
 layout: art_collection
 ---

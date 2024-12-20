@@ -1,7 +1,7 @@
 ---
 title: The Observer
 date: 2024-12-05 20:01:00 Z
-position: 0
+position: 5
 preview_photo: "/uploads/3-2.jpeg"
 layout: art_collection
 ---

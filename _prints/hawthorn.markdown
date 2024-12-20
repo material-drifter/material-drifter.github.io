@@ -1,6 +1,7 @@
 ---
 title: Hawthorn
 date: 2024-12-03 20:10:00 Z
+position: 2
 preview_photo: "/uploads/5-3.jpg"
 layout: art_collection
 ---

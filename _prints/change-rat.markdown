@@ -1,6 +1,7 @@
 ---
 title: Change Rat
 date: 2024-12-05 20:14:00 Z
+position: 4
 preview_photo: "/uploads/Change%20Rat%20.jpg"
 layout: art_collection
 ---
