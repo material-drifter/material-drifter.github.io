@@ -2,7 +2,7 @@
 title: Woven Dreams
 date: 2024-12-04 15:57:00 Z
 position: 3
-preview_photo: "/uploads/IMG_3776.jpeg"
+preview_photo: "/uploads/IMG_0256.jpeg"
 layout: art_collection
 ---
 
