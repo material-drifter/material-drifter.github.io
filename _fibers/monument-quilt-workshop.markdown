@@ -1,6 +1,7 @@
 ---
 title: Monument Quilt Workshop
 date: 2024-12-15 17:56:00 Z
+position: 10
 preview_photo: "/uploads/IMG_0513.jpeg"
 photos:
 - "/uploads/IMG_0517.jpeg"
