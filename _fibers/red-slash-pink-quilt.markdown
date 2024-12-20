@@ -1,6 +1,7 @@
 ---
 title: red/pink quilt
 date: 2024-12-20 15:27:00 Z
+position: 7
 preview_photo: "/uploads/IMG_6054-8b0804.jpeg"
 photos:
 - "/uploads/IMG_2190.jpeg"
