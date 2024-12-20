@@ -2,7 +2,7 @@
 title: Monument Quilt
 date: 2024-12-14 17:56:00 Z
 position: 10
-preview_photo: "/uploads/IMG_0513.jpeg"
+preview_photo: "/uploads/IMG_0513-3af185.jpeg"
 photos:
 - "/uploads/IMG_0517.jpeg"
 - "/uploads/IMG_0514.jpeg"
