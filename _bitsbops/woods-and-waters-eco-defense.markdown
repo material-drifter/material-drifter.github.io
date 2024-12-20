@@ -9,4 +9,4 @@ layout: art_collection
 *2022, Lexington KY* <br> 
 *Drawing* <br>
 
-Designed to celebrate, and raise funds for the Woods and Water's Land Trust, based in the lower Kentucky River watershed. 
+Designed to celebrate, and raise funds for the [Woods and Water's Land Trust](https://www.woodsandwaterstrust.org), based in the lower Kentucky River watershed. 
