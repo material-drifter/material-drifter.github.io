@@ -1,7 +1,7 @@
 ---
 title: what is a quilt
 date: 2024-12-15 05:06:00 Z
-preview_photo: "/uploads/quiltmoon.PNG"
+preview_photo: "/uploads/Untitled%20design-7.png"
 layout: post
 ---
 
