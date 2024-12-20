@@ -1,6 +1,6 @@
 ---
 title: Teasel
-date: 2024-12-06 19:55:00 Z
+date: 2024-12-09 19:55:00 Z
 position: 6
 preview_photo: "/uploads/2-2.PNG"
 layout: art_collection
