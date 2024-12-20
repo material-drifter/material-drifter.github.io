@@ -2,7 +2,7 @@
 title: Shoestring
 date: 2024-12-07 01:50:00 Z
 position: 6
-preview_photo: "/uploads/6.jpeg"
+preview_photo: "/uploads/IMG_7262.jpeg"
 layout: art_collection
 ---
 
