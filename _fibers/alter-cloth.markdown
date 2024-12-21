@@ -1,7 +1,7 @@
 ---
 title: Alter Cloth
 date: 2024-12-07 21:38:00 Z
-position: 6
+position: 7
 preview_photo: "/uploads/7.jpeg"
 layout: art_collection
 ---
