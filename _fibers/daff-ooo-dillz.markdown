@@ -10,6 +10,7 @@ layout: art_collection
 ---
 
 *2024, Lexington KY* <br>
+*found and repurposed fabrics, wire* <br>
 <br> 
 A time of new growth, a time of coming alive, a time of waking from the dark slumber of winter. Kinda like the night- coldest right before the sun hits. <br>
 Feeling the tangles of grief pulling hard on those raw edges. A look out the window to be greeted by the daffodil, tucked in close to home. <br>
