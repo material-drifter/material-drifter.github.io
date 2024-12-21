@@ -1,6 +1,7 @@
 ---
 title: My body is my own
 date: 2024-12-21 14:59:00 Z
+position: 8
 preview_photo: "/uploads/IMG_1048.jpeg"
 photos:
 - "/uploads/IMG_1049-e065d0.jpeg"
