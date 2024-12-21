@@ -15,4 +15,4 @@ Their work draws on so much! Some being the natural landscape around them, home,
 
 They currently are a member of the artist collective: [*Solarpunk Surf Club*](https://www.solarpunksurf.club)
 
-When they aren’t making visual art you can find them moving on the dancefloor, growing in the garden, making herbal medicines, on the road, at the circus, or spending time in Kentucky's many pockets of DIY community.
+When they aren’t making visual art you can find them on the dance floor, at the circus, growing in the garden, or spending time in Kentucky's many pockets of DIY community.
