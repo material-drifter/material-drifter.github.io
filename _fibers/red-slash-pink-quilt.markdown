@@ -10,4 +10,5 @@ layout: art_collection
 ---
 
 *2020, Lexington KY* <br>
+*found and repurposed fabrics* <br>
 
