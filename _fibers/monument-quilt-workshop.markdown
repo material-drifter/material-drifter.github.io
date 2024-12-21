@@ -4,8 +4,9 @@ date: 2024-12-14 17:56:00 Z
 position: 10
 preview_photo: "/uploads/IMG_0513-3af185.jpeg"
 photos:
-- "/uploads/IMG_0517.jpeg"
-- "/uploads/IMG_0514.jpeg"
+- "/uploads/IMG_0517-ba90b0.jpeg"
+- "/uploads/IMG_0515-4b950a.jpeg"
+- "/uploads/IMG_0514-ef54b6.jpeg"
 layout: art_collection
 ---
 
