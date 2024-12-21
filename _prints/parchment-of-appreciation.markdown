@@ -7,5 +7,6 @@ layout: art_collection
 ---
 
 *2024, Lexington KY* <br>
+*lino cut* <br>
 <br>
 Often when I'm traveling, strangers seem to be extra kind. During a recent trip up to NYC, I wished I had small tokens to give to the guy who swiped us into the subway, or the bus drivers who let us on for free. Keeping these in my pocket for next time. 
