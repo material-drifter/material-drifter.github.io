@@ -8,7 +8,7 @@ layout: lead_photos
 ---
 
 #### Kat Smith (they/them)
-is a multi-media artist born and raised in Central Kentucky.
+is a queer multi-media artist born and raised in Central Kentucky.
 
 Their creative practice mostly manifests through fibers, printmaking, zines, and film photography, often melding these materials together.
 Their work draws on so much! Some being the natural landscape around them, home, ritual, reflection, dreams, gender, communal practice, and liberatory lineages.
