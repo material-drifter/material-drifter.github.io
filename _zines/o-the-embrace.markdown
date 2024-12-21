@@ -7,4 +7,6 @@ layout: art_collection
 ---
 
 *2022, Lexington KY* <br>
-A zine for lovers
+A zine for lovers<br>
+<br>
+[Download a printable version](https://drive.google.com/file/d/1_2Gld-2WIpApYwCa44_QjiwXS7Zh6Z7w/view?usp=sharing) 
