@@ -7,5 +7,6 @@ layout: art_collection
 ---
 
 *2019, Lexington KY* <br> 
+*lino cut* <br>
 <br>
 Inspired by teasel I would often find in the fields of a goat farm. 
