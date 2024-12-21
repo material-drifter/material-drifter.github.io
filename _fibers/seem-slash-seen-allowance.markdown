@@ -7,6 +7,7 @@ layout: art_collection
 ---
 
 *2022, Lexington KY* <br>
+*found and repurposed fabrics, linocut print* <br>
 <br>
 seem//seen allowance<br>
 billows of the body, the area between the edge
