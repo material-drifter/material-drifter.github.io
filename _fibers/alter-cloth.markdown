@@ -7,6 +7,7 @@ layout: art_collection
 ---
 
 *2021, Lexington KY* <br>
+*found and repurposed fabrics* <br>
 <br>
 Quilted alter clothes for tarot, ritual, or reflection. <br>
 Quilt 1 from a series of 10. 
