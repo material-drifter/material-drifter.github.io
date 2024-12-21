@@ -14,7 +14,6 @@ layout: art_collection
 ---
 
 *2023-2025, Kentucky* <br>
-*workshop series* <br>
 <br>
 
 Hosted by Annette Hines and Kat Smith of [KY Tenants](https://www.kytenants.org), *What Home Means to Us* is a 6 part quilt project building off 2 community quilt workshops held in 2023. This workshop series aims to engage participants in Kentucky about housing through education, conversation, and the creation of a community quilt. <br>
