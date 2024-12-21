@@ -1,8 +1,8 @@
 ---
 title: Bio
 photos:
-- "/uploads/Material_Drifter_1.jpg"
 - "/uploads/IMG_0977.jpeg"
+- "/uploads/Material_Drifter_1.jpg"
 - "/uploads/Material_Drifter_3.JPG"
 layout: lead_photos
 ---
