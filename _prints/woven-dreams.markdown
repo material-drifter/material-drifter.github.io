@@ -7,5 +7,6 @@ layout: art_collection
 ---
 
 *2022, Lexington KY* <br>
+*screen print* <br>
 <br>
 Persistent as a wind bound web, woven dreams of sustenance 
