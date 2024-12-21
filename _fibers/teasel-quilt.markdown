@@ -7,3 +7,4 @@ layout: art_collection
 ---
 
 *2024, Lexington KY* <br>
+*found and repurposed fabrics, linocut print* 
