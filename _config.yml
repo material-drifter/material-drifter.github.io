@@ -1,0 +1,36 @@
+---
+title: Material Drifter
+timezone: UTC
+collections:
+  fibers:
+    title: Fibers
+    output: true
+  film:
+    title: Film
+    output: true
+    layout: individual_art
+  prints:
+    title: Prints
+    output: true
+  posts:
+    title: Reflections
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  zines:
+    title: Zines
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: film
+  values:
+    layout: individual_art
+    photo: ''
+markdown: kramdown
+permalink: pretty
+tagline: Material Drifter
+description: 
+url: 
+baseurl: "/"
