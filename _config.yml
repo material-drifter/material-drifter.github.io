@@ -1,3 +1,4 @@
+---
 title: Material Drifter
 timezone: UTC
 collections:
@@ -20,6 +21,6 @@ defaults:
 markdown: kramdown
 permalink: pretty
 tagline: Material Drifter
-description:
-url:
+description: 
+url: 
 baseurl: "/"
