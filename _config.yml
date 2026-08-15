@@ -1,4 +1,3 @@
----
 title: Material Drifter
 timezone: UTC
 collections:
@@ -8,8 +7,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-<<<<<<< HEAD
-=======
   zines:
     title: Zines
     output: true
@@ -23,7 +20,6 @@ defaults:
 markdown: kramdown
 permalink: pretty
 tagline: Material Drifter
-description: 
-url: 
+description:
+url:
 baseurl: "/"
->>>>>>> parent of 5083f28 (fix bits+bops permalink)
