@@ -2,6 +2,9 @@
 title: Material Drifter
 timezone: UTC
 collections:
+  fibers:
+    title: Fibers
+    output: true
   posts:
     title: Posts
     output: true
