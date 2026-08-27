@@ -5,6 +5,9 @@ collections:
   fibers:
     title: Fibers
     output: true
+  film:
+    title: Film
+    output: true
   posts:
     title: Posts
     output: true
