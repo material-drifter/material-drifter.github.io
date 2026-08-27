@@ -2,14 +2,8 @@
 title: What Home Means
 date: 2024-12-01 17:19:00 Z
 position: 1
-preview_photo: "/uploads/what%20home%20means%20to%20us-5.png"
-photos:
-- "/uploads/IMG_9786.jpeg"
-- "/uploads/IMG_9789.jpeg"
-- "/uploads/IMG_9790.jpeg"
-- "/uploads/IMG_9797.jpeg"
-- "/uploads/IMG_9953.jpeg"
-- "/uploads/IMG_9958.jpeg"
+Preview_photo: "/uploads/IMG_2553.jpeg"
+Photos: "/uploads/IMG_2230-eea50a.jpeg"
 layout: art_collection
 ---
 
